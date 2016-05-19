@@ -1,0 +1,3 @@
+[submodule "asg_persistence"]
+	path = asg_persistence
+	url = git@github.com:DeviaVir/asg_persistence.git
